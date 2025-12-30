@@ -5,7 +5,7 @@ Pré-requisitos:
 
 Node.js (versão 18.x ou superior recomendada)
 npm (geralmente vem com o Node.js)
-Clone o repositório (se ainda não o fez):
+Clone o repositório (se ainda não o fez).
 
 Bash
 git clone <url-do-seu-repositorio>
